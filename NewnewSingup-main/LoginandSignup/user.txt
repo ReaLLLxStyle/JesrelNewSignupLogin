@@ -1,0 +1,18 @@
+Firstname: dwa
+Lastname: dwa
+Username: reals
+Email: dwadaw@gmail.com
+Password: dwa
+RePassword: dwa
+Gender: Male
+Course: BSIT
+Hobbies: Watching Videos
+Firstname: dwadwa
+Lastname: aaaaaaaa
+Username: wwwwww@gmail.com
+Email: 231321@gmail.com
+Password: 123
+RePassword: 123
+Gender: Male
+Course: BSIT
+Hobbies: Singing, Watching Videos

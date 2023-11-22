@@ -1,0 +1,9 @@
+Firstname: gg
+Lastname: ggg
+Username: g
+Email: gg@gmail.com
+Password: 1234
+RePassword: 1234
+Gender: Male
+Course: BSIT
+Hobbies: Traveling, Socializing, Writing

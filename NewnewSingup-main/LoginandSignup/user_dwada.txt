@@ -1,0 +1,9 @@
+Firstname: dwadwa
+Lastname: dwada
+Username: dwada
+Email: 32131@gmail.com
+Password: dwadaw
+RePassword: dwadaw
+Gender: Male
+Course: BSIT
+Hobbies: Socializing, Writing
